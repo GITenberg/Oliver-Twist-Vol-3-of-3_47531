@@ -1,4 +1,5 @@
 _repo: Oliver-Twist-Vol-3-of-3_47531
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Cruikshank, George
@@ -8,6 +9,9 @@ contributor:
     gutenberg_agent_id: '9068'
     url: http://www.gutenberg.org/2009/agents/9068
     wikipedia: http://en.wikipedia.org/wiki/George_Cruikshank
+covers:
+- cover_type: archival
+  image_path: 47531-h/images/cover.jpg
 creator:
   author:
     agent_name: Dickens, Charles
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/37
     wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/47531#Oliver-Twist-Vol-3-of-3
 gutenberg_issued: '2014-12-04'
 gutenberg_type: Text
 identifiers:
